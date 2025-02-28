@@ -108,15 +108,33 @@ GROUP BY CrisisEventTime;
 - **SQL (MySQL)** – For data extraction, transformation, and analysis.
 - **Sentiment Analysis** – Understanding customer perception through text analytics.
 
+
+ 
+```
+
 ## 📂 Folder Structure
 ```
 📦 BrandReputation-Monitoring
- ┣ 📂 data              → https://github.com/pradip-data/Brand-Reputation-Social-Media-Monitoring/tree/891cfecb0d7be7f2493dd0d23622b81de5c15094/Dataset
- ┣ 📂 sql_queries       → https://github.com/pradip-data/Brand-Reputation-Social-Media 
-                           Monitoring/blob/17cd92a10aa31b0acbf027fe1a4e50d39570d64c/Brand_Reputation_Project.sql
- ┣ 📂 reports           → https://github.com/pradip-data/Brand-Reputation-Social-Media-Monitoring/blob/19315bd44de9efd7947f159cd071e9687f89b1a9/Recommendation%20%26%20Suggetion.pdf
- 
+ ┣ 📂 data              → Contains datasets for analysis
+ ┣ 📂 sql_queries       → SQL scripts for sentiment analysis & customer insights
+ ┣ 📂 reports           → Summary reports & recommendations
+ ┣ 📜 README.md         → Project documentation
 ```
+
+✅ **Access Files Here:**
+
+- **📂 Data Folder**: [Dataset](https://github.com/pradip-data/Brand-Reputation-Social-Media-Monitoring/tree/891cfecb0d7be7f2493dd0d23622b81de5c15094/Dataset)
+- **📂 SQL Queries**: [Brand_Reputation_Project.sql](https://github.com/pradip-data/Brand-Reputation-Social-Media-Monitoring/blob/17cd92a10aa31b0acbf027fe1a4e50d39570d64c/Brand_Reputation_Project.sql)
+- **📂 Reports**: [Recommendation & Suggestion.pdf](https://github.com/pradip-data/Brand-Reputation-Social-Media-Monitoring/blob/19315bd44de9efd7947f159cd071e9687f89b1a9/Recommendation%20%26%20Suggetion.pdf)
+
+---
+
+✅ **Key Findings:**
+- **High Negative Sentiment (X%)** → Requires immediate intervention.
+- **Delayed Customer Support Response** → Leading to lower satisfaction.
+- **Frequent Product Recalls** → Impacting customer trust and retention.
+- **Competitor Engagement is Higher** → AfriTech needs stronger social media presence.
+
 
 ## 📈 Conclusion & Recommendations
 
