@@ -111,7 +111,7 @@ GROUP BY CrisisEventTime;
 ## 📂 Folder Structure
 ```
 📦 BrandReputation-Monitoring
- ┣ 📂 data              → Raw & processed datasets
+ ┣ 📂 data              → https://github.com/pradip-data/Brand-Reputation-Social-Media-Monitoring/tree/891cfecb0d7be7f2493dd0d23622b81de5c15094/Dataset
  ┣ 📂 sql_queries       → SQL scripts for analysis
  ┣ 📂 reports           → PDF & markdown reports
  
