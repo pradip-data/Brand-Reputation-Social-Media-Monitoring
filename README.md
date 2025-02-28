@@ -106,7 +106,6 @@ GROUP BY CrisisEventTime;
 
 ## 🛠 Technologies Used
 - **SQL (MySQL)** – For data extraction, transformation, and analysis.
-- **Data Visualization** – Insights presented via charts and reports.
 - **Sentiment Analysis** – Understanding customer perception through text analytics.
 
 ## 📂 Folder Structure
@@ -115,10 +114,7 @@ GROUP BY CrisisEventTime;
  ┣ 📂 data              → Raw & processed datasets
  ┣ 📂 sql_queries       → SQL scripts for analysis
  ┣ 📂 reports           → PDF & markdown reports
- ┣ 📂 visualizations    → Charts & graphs
- ┣ 📂 docs              → Project documentation
- ┣ 📜 README.md         → Project overview
- ┣ 📜 requirements.txt  → Dependencies (if applicable)
+ 
 ```
 
 ## 📈 Conclusion & Recommendations
@@ -134,6 +130,6 @@ The analysis clearly highlights that **AfriTech Electronics Ltd. is facing an ur
 By integrating these strategies, AfriTech can **rebuild its brand reputation, enhance customer trust, and maintain a competitive edge** in the consumer electronics market.
 
 ---
-🔗 **Contributors:** Add your name here  
-📧 **Contact:** your-email@example.com  
-🚀 **Project Status:** In Progress / Completed  
+🔗 **Contributors:** Mangroliya Pradip 
+📧 **Contact:** pradipias2023@gmail.com 
+🚀 **Project Status:** Completed  
