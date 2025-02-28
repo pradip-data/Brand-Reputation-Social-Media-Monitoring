@@ -110,16 +110,13 @@ GROUP BY CrisisEventTime;
 
 
  
-```
 
 ## 📂 Folder Structure
-```
 📦 BrandReputation-Monitoring
  ┣ 📂 data              → Contains datasets for analysis
  ┣ 📂 sql_queries       → SQL scripts for sentiment analysis & customer insights
  ┣ 📂 reports           → Summary reports & recommendations
  ┣ 📜 README.md         → Project documentation
-```
 
 ✅ **Access Files Here:**
 
@@ -127,7 +124,6 @@ GROUP BY CrisisEventTime;
 - **📂 SQL Queries**: [Brand_Reputation_Project.sql](https://github.com/pradip-data/Brand-Reputation-Social-Media-Monitoring/blob/17cd92a10aa31b0acbf027fe1a4e50d39570d64c/Brand_Reputation_Project.sql)
 - **📂 Reports**: [Recommendation & Suggestion.pdf](https://github.com/pradip-data/Brand-Reputation-Social-Media-Monitoring/blob/19315bd44de9efd7947f159cd071e9687f89b1a9/Recommendation%20%26%20Suggetion.pdf)
 
----
 
 ✅ **Key Findings:**
 - **High Negative Sentiment (X%)** → Requires immediate intervention.
@@ -148,7 +144,7 @@ The analysis clearly highlights that **AfriTech Electronics Ltd. is facing an ur
 
 By integrating these strategies, AfriTech can **rebuild its brand reputation, enhance customer trust, and maintain a competitive edge** in the consumer electronics market.
 
----
+
 🔗 **Contributors:** Mangroliya Pradip 
 📧 **Contact:** pradipias2023@gmail.com 
 🚀 **Project Status:** Completed  
