@@ -126,7 +126,7 @@ GROUP BY CrisisEventTime;
 
 
 ✅ **Key Findings:**
-- **High Negative Sentiment (X%)** → Requires immediate intervention.
+- **High Negative Sentiment** → Requires immediate intervention.
 - **Delayed Customer Support Response** → Leading to lower satisfaction.
 - **Frequent Product Recalls** → Impacting customer trust and retention.
 - **Competitor Engagement is Higher** → AfriTech needs stronger social media presence.
